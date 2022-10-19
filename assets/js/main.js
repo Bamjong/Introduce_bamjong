@@ -227,6 +227,12 @@
     height: '90vh'
   });
 
+  const portfolioDetailsLightbox1 = GLightbox({
+    selector: '.portfolio-details-lightbox1',
+    width: '90%',
+    height: '90vh'
+  });
+
   /**
    * Portfolio details slider
    */
@@ -243,6 +249,7 @@
       clickable: true
     }
   });
+  
 
   /**
    * Initiate Pure Counter 

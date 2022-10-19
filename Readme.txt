@@ -13,5 +13,3 @@ License: https://bootstrapmade.com/license/
 
 
 
-open-sans = Noto Sans KR
-poppins  = Black Han Sans
